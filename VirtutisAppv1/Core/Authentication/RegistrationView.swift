@@ -44,7 +44,7 @@ struct RegistrationView: View {
                           placeholder: "Confirme sua senha",
                           isSecureField: true)
             }
-            .padding(.horizontal)
+            .padding(.horizontal, 20)
             .padding(.top, 20)
             .padding(.bottom, 30)
             
